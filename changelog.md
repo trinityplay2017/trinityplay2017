@@ -1,4 +1,4 @@
-<font face = "Consolas" size = "3">
+<font face = "Consolas" size = "2.5">
 
 # testing
 
