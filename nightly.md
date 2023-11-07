@@ -1,0 +1,1 @@
+It's specifically said that nightly builds should not be used for 'production' work. However, they do contain bug fixes that may be very useful for you immediately. They are like betas before everything is release officially. You are not forced to use them.
