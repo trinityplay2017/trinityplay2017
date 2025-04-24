@@ -1,10 +1,11 @@
-<p style="text-align: center;">Centered text
-<a href="https://example.com">
-    <button>Click me</button>
-</a>
+<p style="text-align: center;">
+    Centered text
+  
 <div>
 
-- A
+-   <a href="https://example.com">
+        <button>Click me</button>
+    </a>
 - B
 - C
 
