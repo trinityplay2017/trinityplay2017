@@ -2,7 +2,7 @@
 ## Heading
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/150094003?s=96&v=4" height="100" />
+<img src="https://github.com/trinityplay2017/trinityplay2017/blob/main/logo_moxiang.png" height="100" />
 </div>
 
 - bullet
