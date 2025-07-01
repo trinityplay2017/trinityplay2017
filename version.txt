@@ -1,1 +1,2 @@
 0.0.1
+https://github.com/trinityplay2017/trinityplay2017/raw/refs/heads/main/test.zip
